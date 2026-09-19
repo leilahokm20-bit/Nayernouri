@@ -1,0 +1,8 @@
+-qwr10%e1C2%Ps2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.1) Gecko/20020826" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "en, *" https://madid-e2etc8btdcgwg3e8.malaysiawest-01.azurewebsites.net/ -O1 "\"D:\\My Web Sites Nouri\\nouri\"" -https://madid-e2etc8btdcgwg3e8.malaysiawest-01.azurewebsites.net/wp-login.php/* -https://madid-e2etc8btdcgwg3e8.malaysiawest-01.azurewebsites.net/wp-admin/* +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv
+File generated automatically on Sat, 19 Sep 2026 18:58:39, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

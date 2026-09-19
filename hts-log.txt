@@ -1,0 +1,23 @@
+HTTrack3.50-2 launched on Sat, 19 Sep 2026 18:58:39 at https://madid-e2etc8btdcgwg3e8.malaysiawest-01.azurewebsites.net/ -https://madid-e2etc8btdcgwg3e8.malaysiawest-01.azurewebsites.net/wp-login.php/* -https://madid-e2etc8btdcgwg3e8.malaysiawest-01.azurewebsites.net/wp-admin/* +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv
+(winhttrack -qwr10%e1C2%Ps2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.1) Gecko/20020826" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "en, *" https://madid-e2etc8btdcgwg3e8.malaysiawest-01.azurewebsites.net/ -O1 "D:\My Web Sites Nouri\nouri" -https://madid-e2etc8btdcgwg3e8.malaysiawest-01.azurewebsites.net/wp-login.php/* -https://madid-e2etc8btdcgwg3e8.malaysiawest-01.azurewebsites.net/wp-admin/* +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:59:07	Error: 	"Not Found" (404) at link fonts.googleapis.com/ (from https://madid-e2etc8btdcgwg3e8.malaysiawest-01.azurewebsites.net/)
+18:59:09	Warning: 	Moved Permanently for https://api.w.org/robots.txt
+18:59:09	Warning: 	File has moved from https://api.w.org/robots.txt to https://api.wordpress.org/robots.txt
+18:59:09	Warning: 	Moved Permanently for https://api.w.org/
+18:59:09	Warning: 	File has moved from https://api.w.org/ to https://api.wordpress.org/
+18:59:09	Error: 	"Not Allowed" (405) at link https://madid-e2etc8btdcgwg3e8.malaysiawest-01.azurewebsites.net/xmlrpc.php?rsd (from https://madid-e2etc8btdcgwg3e8.malaysiawest-01.azurewebsites.net/)
+18:59:30	Error: 	"Forbidden" (403) at link https://www.themespride.com/products/free-author-wordpress-theme (from https://madid-e2etc8btdcgwg3e8.malaysiawest-01.azurewebsites.net/)
+18:59:30	Warning: 	Moved Permanently for https://madid-e2etc8btdcgwg3e8.malaysiawest-01.azurewebsites.net/?p=47
+18:59:30	Warning: 	File has moved from https://madid-e2etc8btdcgwg3e8.malaysiawest-01.azurewebsites.net/?p=47 to https://madid-e2etc8btdcgwg3e8.malaysiawest-01.azurewebsites.net/2026/09/17/irans-contribution-to-the-world-civilization-vol-ii/
+19:00:51	Warning: 	Moved Permanently for https://madid-e2etc8btdcgwg3e8.malaysiawest-01.azurewebsites.net/?p=1
+19:00:51	Warning: 	File has moved from https://madid-e2etc8btdcgwg3e8.malaysiawest-01.azurewebsites.net/?p=1 to https://madid-e2etc8btdcgwg3e8.malaysiawest-01.azurewebsites.net/2026/09/14/hello-world/
+19:00:51	Error: 	"Not Found" (404) at link https://madid-e2etc8btdcgwg3e8.malaysiawest-01.azurewebsites.net/2026/09/17/irans-contribution-to-the-world-civilization-vol-ii/AcroPDF.PDF (from https://madid-e2etc8btdcgwg3e8.malaysiawest-01.azurewebsites.net/wp-includes/js/dist/script-modules/block-library/file/view.min.js?ver=a9114a756e418400594c)
+
+HTTrack Website Copier/3.50-2 mirror complete in 2 minutes 13 seconds : 49 links scanned, 37 files written (81850170 bytes overall) [80592799 bytes received at 605960 bytes/sec], 1618961 bytes transferred using HTTP compression in 35 files, ratio 16%, 1.0 requests per connection
+(4 errors, 8 warnings, 0 messages)
